@@ -10,3 +10,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>](https://www.php.net)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>](https://reactjs.org/)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhinquanhlancuoi9999&layout=compact&theme=dark&hide=javascript,python)
